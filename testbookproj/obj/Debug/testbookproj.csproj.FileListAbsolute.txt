@@ -1,0 +1,17 @@
+F:\unittest\abc\testbookproj\obj\Debug\testbookproj.csprojAssemblyReference.cache
+F:\unittest\abc\testbookproj\obj\Debug\testbookproj.csproj.CoreCompileInputs.cache
+F:\unittest\abc\testbookproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\unittest\abc\testbookproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\unittest\abc\testbookproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\unittest\abc\testbookproj\bin\Debug\testbookproj.dll
+F:\unittest\abc\testbookproj\bin\Debug\testbookproj.pdb
+F:\unittest\abc\testbookproj\bin\Debug\ConsoleApp1.exe
+F:\unittest\abc\testbookproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\unittest\abc\testbookproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\unittest\abc\testbookproj\bin\Debug\ConsoleApp1.pdb
+F:\unittest\abc\testbookproj\bin\Debug\ConsoleApp1.exe.config
+F:\unittest\abc\testbookproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\unittest\abc\testbookproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\unittest\abc\testbookproj\obj\Debug\testbookproj.csproj.CopyComplete
+F:\unittest\abc\testbookproj\obj\Debug\testbookproj.dll
+F:\unittest\abc\testbookproj\obj\Debug\testbookproj.pdb
